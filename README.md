@@ -1,12 +1,13 @@
 # react-passport
 
-![react-passport](/src/images/screenshot.png)
-
 * [quick source](/src/server/api/auth)
 * [providers setup](/config/auth.prod.json)
 * [nginx setup](/nginx)
 
+
 ## strategies used
+
+<img src="/src/images/screenshot.png" align="right" height="300" width="300">
 
 * [facebook](https://github.com/jaredhanson/passport-facebook)
 * [twitter](https://github.com/jaredhanson/passport-twitter)
