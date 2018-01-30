@@ -2,18 +2,18 @@
 
 [quick source](/src/server/api/auth) / [nginx setup](/nginx) / [providers setup](/config/auth.prod.json)
 
-* facebook [module](https://github.com/jaredhanson/passport-facebook)
-* twitter [module](https://github.com/jaredhanson/passport-twitter)
-* instagram [module](https://github.com/jaredhanson/passport-instagram)
-* github [module](https://github.com/jaredhanson/passport-github)
-* linkedin [module](https://github.com/jaredhanson/passport-linkedin)
-* flickr [module](https://github.com/johnnyhalife/passport-flickr)
-* pinterest [module](https://github.com/analog-nico/passport-pinterest)
-* reddit [module](https://github.com/slotos/passport-reddit)
-* stack-exchange [module](https://github.com/mooyoul/passport-stack-exchange)
-* google [module](https://github.com/jaredhanson/passport-google-oauth)
-* vkontakte [module](https://github.com/stevebest/passport-vkontakte)
-* dropbox [module](https://github.com/florianheinemann/passport-dropbox-oauth2)
+* [facebook](https://github.com/jaredhanson/passport-facebook)
+* [twitter](https://github.com/jaredhanson/passport-twitter)
+* [instagram](https://github.com/jaredhanson/passport-instagram)
+* [github](https://github.com/jaredhanson/passport-github)
+* [linkedin](https://github.com/jaredhanson/passport-linkedin)
+* [flickr](https://github.com/johnnyhalife/passport-flickr)
+* [pinterest](https://github.com/analog-nico/passport-pinterest)
+* [reddit](https://github.com/slotos/passport-reddit)
+* [stack-exchange](https://github.com/mooyoul/passport-stack-exchange)
+* [google](https://github.com/jaredhanson/passport-google-oauth)
+* [vkontakte](https://github.com/stevebest/passport-vkontakte)
+* [dropbox](https://github.com/florianheinemann/passport-dropbox-oauth2)
 
 # installation
 
