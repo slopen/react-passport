@@ -13,14 +13,14 @@
 * [facebook](https://github.com/jaredhanson/passport-facebook)
 * [twitter](https://github.com/jaredhanson/passport-twitter)
 * [instagram](https://github.com/jaredhanson/passport-instagram)
-* [github](https://github.com/jaredhanson/passport-github)
 * [linkedin](https://github.com/jaredhanson/passport-linkedin)
+* [vkontakte](https://github.com/stevebest/passport-vkontakte)
+* [reddit](https://github.com/slotos/passport-reddit)
 * [flickr](https://github.com/johnnyhalife/passport-flickr)
 * [pinterest](https://github.com/analog-nico/passport-pinterest)
-* [reddit](https://github.com/slotos/passport-reddit)
 * [stack-exchange](https://github.com/mooyoul/passport-stack-exchange)
+* [github](https://github.com/jaredhanson/passport-github)
 * [google](https://github.com/jaredhanson/passport-google-oauth)
-* [vkontakte](https://github.com/stevebest/passport-vkontakte)
 * [dropbox](https://github.com/florianheinemann/passport-dropbox-oauth2)
 
 ## installation
