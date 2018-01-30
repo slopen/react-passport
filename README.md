@@ -39,6 +39,8 @@ $ npm run production
 
 ## development
 
+requires `auth.dev.json` in `config` folder
+
 ```
 $ npm run dev
 ```
