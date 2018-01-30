@@ -9,6 +9,7 @@
 
 <img src="/src/images/screenshot.png" align="right" height="330" width="330">
 
+* [local](https://github.com/jaredhanson/passport-local)
 * [facebook](https://github.com/jaredhanson/passport-facebook)
 * [twitter](https://github.com/jaredhanson/passport-twitter)
 * [instagram](https://github.com/jaredhanson/passport-instagram)
