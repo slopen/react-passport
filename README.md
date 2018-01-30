@@ -1,6 +1,6 @@
 # react-passport
 
-* [quick source](/src/server/api/auth)
+* [strategies source](/src/server/api/auth)
 * [providers setup](/config/auth.prod.json)
 * [nginx setup](/nginx)
 
