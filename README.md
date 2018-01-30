@@ -7,7 +7,7 @@
 
 ## strategies used
 
-<img src="/src/images/screenshot.png" align="right" height="300" width="300">
+<img src="/src/images/screenshot.png" align="right" height="330" width="330">
 
 * [facebook](https://github.com/jaredhanson/passport-facebook)
 * [twitter](https://github.com/jaredhanson/passport-twitter)
