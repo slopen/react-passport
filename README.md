@@ -1,6 +1,10 @@
 # react-passport
 
-[quick source](/src/server/api/auth) / [nginx setup](/nginx) / [providers setup](/config/auth.prod.json)
+* [quick source](/src/server/api/auth)
+* [providers setup](/config/auth.prod.json)
+* [nginx setup](/nginx)
+
+## strategies used
 
 * [facebook](https://github.com/jaredhanson/passport-facebook)
 * [twitter](https://github.com/jaredhanson/passport-twitter)
@@ -15,7 +19,7 @@
 * [vkontakte](https://github.com/stevebest/passport-vkontakte)
 * [dropbox](https://github.com/florianheinemann/passport-dropbox-oauth2)
 
-# installation
+## installation
 
 ```
 $ git clone https://github.com/slopen/react-passport.git
@@ -23,13 +27,13 @@ $ cd react-passport
 $ npm i
 ```
 
-# production
+## production
 
 ```
 $ npm run production
 ```
 
-# development
+## development
 
 ```
 $ npm run dev
