@@ -1,5 +1,7 @@
 # react-passport
 
+![react-passport](/src/images/screenshot.png)
+
 * [quick source](/src/server/api/auth)
 * [providers setup](/config/auth.prod.json)
 * [nginx setup](/nginx)
