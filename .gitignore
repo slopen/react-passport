@@ -1,0 +1,5 @@
+.DS_Store
+config/auth.dev.json
+build
+node_modules
+todo.md

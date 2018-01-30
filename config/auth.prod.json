@@ -1,0 +1,93 @@
+{
+	"local": {
+		"saltLength": 16,
+		"algorythm": "sha256"
+	},
+
+	"facebook": {
+		"clientID": "XXX",
+		"clientSecret": "XXX",
+		"callbackURL": "https://dev.localhost.com/api/session/auth/facebook/callback",
+		"profileFields": ["id", "photos", "email"],
+		"scope": ["email"]
+	},
+
+	"twitter": {
+		"consumerKey": "XXX",
+		"consumerSecret": "XXX",
+		"callbackURL": "https://dev.localhost.com/api/session/auth/twitter/callback",
+		"userProfileURL": "https://api.twitter.com/1.1/account/verify_credentials.json?include_email=true"
+	},
+
+	"instagram": {
+		"clientID": "XXX",
+		"clientSecret": "XXX",
+		"callbackURL": "https://dev.localhost.com/api/session/auth/instagram/callback"
+	},
+
+	"github": {
+    	"clientID": "XXX",
+    	"clientSecret": "XXX",
+    	"callbackURL": "https://dev.localhost.com/api/session/auth/github/callback",
+    	"scope": "user:email"
+	},
+
+	"linkedin": {
+    	"consumerKey": "XXX",
+    	"consumerSecret": "XXX",
+    	"callbackURL": "https://dev.localhost.com/api/session/auth/linkedin/callback",
+    	"scope": ["r_emailaddress", "r_basicprofile"],
+    	"profileFields": ["email-address", "picture-url"]
+	},
+
+	"flickr": {
+    	"consumerKey": "XXX",
+    	"consumerSecret": "XXX",
+    	"callbackURL": "https://dev.localhost.com/api/session/auth/flickr/callback"
+	},
+
+	"pinterest": {
+        "clientID": "XXX",
+        "clientSecret": "XXX",
+        "scope": ["read_public"],
+        "callbackURL": "https://dev.localhost.com/api/session/auth/pinterest/callback",
+        "state": true
+	},
+
+	"reddit": {
+    	"clientID": "XXX",
+    	"clientSecret": "XXX",
+    	"callbackURL": "https://dev.localhost.com/api/session/auth/reddit/callback"
+	},
+
+	"stackexchange": {
+        "clientID": "XXX",
+        "clientSecret": "XXX",
+        "stackAppsKey": "XXX",
+        "callbackURL": "https://stackexchange.com/oauth/login_success",
+        "site": "stackoverflow"
+	},
+
+	"google": {
+    	"clientID": "XXX",
+    	"clientSecret": "XXX",
+    	"callbackURL": "https://dev.localhost.com/api/session/auth/google/callback",
+    	"scope": "email"
+	},
+
+	"vkontakte": {
+    	"clientID": "XXX",
+    	"clientSecret": "XXX",
+    	"callbackURL":  "https://dev.localhost.com/api/session/auth/vkontakte/callback",
+    	"profileFields": ["email"],
+    	"scope": "email"
+	},
+
+	"dropbox": {
+		"apiVersion": "2",
+    	"clientID": "XXX",
+    	"clientSecret": "XXX",
+    	"callbackURL": "https://dev.localhost.com/api/session/auth/dropbox/callback"
+	}
+
+}
